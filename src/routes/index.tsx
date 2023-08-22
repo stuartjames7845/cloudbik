@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <Title>CloudBik Softwares</Title>
       <h1>CloudBik Softwares</h1>
-      <Counter />
+      <Counter/>
       <p>
         Modern, efficient, reliable - that's Cloudbik! Our state-of-the-art SaaS platform has been designed to help you seamlessly migrate your organization's data between different digital workplaces. Whether you're moving from Microsoft 365 to Google Workspace, Zoho Workplace to Amazon Work Mail, etc.<br>
 Our team of experts understands that every organization is unique – that’s why we offer customized solutions to fit your specific needs. Our comprehensive suite of services includes planning, migration strategy development, implementation support, ongoing maintenance, and monitoring.<br>
