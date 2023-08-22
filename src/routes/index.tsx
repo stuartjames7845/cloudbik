@@ -1,9 +1,4 @@
-import { Title } from "solid-start";
-import Counter from "~/components/Counter";
-
-export default function Home() {
-  return (
-    <main>
+<main>
       <Title>CloudBik Softwares</Title>
       <h1>CloudBik Softwares</h1>
       <Counter/>
