@@ -12,7 +12,7 @@ export default function Home() {
 Our team of experts understands that every organization is unique – that’s why we offer customized solutions to fit your specific needs. Our comprehensive suite of services includes planning, migration strategy development, implementation support, ongoing maintenance, and monitoring.<br>
 At Cloudbik, we pride ourselves on our commitment to customer satisfaction. We work closely with our clients from start to finish ensuring they are fully informed throughout the entire process.<br>
 Whether you’re looking to migrate your email system or simply looking for advice on how best to optimize it in the cloud - Cloudbik has got you covered! Contact us today for more information about how we can help transform your organization’s email system.<br>
-        Visit us at: <a href=https://www.cloudbik.com>www.cloudbik.com</a>
+        Visit us at: <a href=https://www.cloudbik.com>www.cloudbik.com </a>
       </p>
     </main>
   );
